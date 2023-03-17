@@ -4,7 +4,7 @@ POLLmelo is beeing developed as a student project to enable foodsharing.de to us
 
 ## How to start POLLmelo
 1. Pull Backberry repository (backend) and Fruitend repository (frontend) into separate local directories.
-2. Install Docker, DDEV and NPM.
+2. Install [Docker](https://docs.docker.com/engine/install/), [DDEV](https://ddev.readthedocs.io/en/latest/users/install/ddev-installation/) and [NPM](https://nodejs.org/en/download).
 3. Follow instructions in Backberry README.
 4. Open terminal in Backberry directory and run backend with `ddev start`.
 5. Open terminal in Fruitend directory and run frontend with `npm install` & `npm run dev`.
